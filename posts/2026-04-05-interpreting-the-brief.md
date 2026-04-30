@@ -1,5 +1,5 @@
 ---
-title: Interpreting the brief —→ what does this community actually need?
+title: Interpreting the brief → what does this community actually need?
 date: 2026-04-05
 author: Taozhe Chen
 summary: A close reading of the Bla+Bla Design Brief and what it reveals about
@@ -11,8 +11,6 @@ tags:
   - design brief
   - planning
 ---
-
-# _Interpreting the Brief_ → what does this community actually need?
 
 The Bla+Bla Design Brief opens with a premise that reshapes how the problem
 should be approached: a community hub is not a social media page with
