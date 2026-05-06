@@ -72,7 +72,7 @@ show up in real design decisions when we get to the interface.
 
 ---
 
-![Sitemap](/posts/images/sitemap.png)
+![Sitemap](/assets/sitemap.png)
 
 ---
 
