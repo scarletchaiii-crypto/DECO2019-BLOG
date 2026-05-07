@@ -1,5 +1,5 @@
 ---
-title: Build DDD and ERD — the data behind NeighbourConnect
+title: Build DDD and ERD → the data behind NeighbourConnect
 date: 2026-04-26
 author: [Taozhe Chen]
 summary: Working through the DDD and ERD for NeighbourConnect, and the
