@@ -1,5 +1,5 @@
 ---
-title: From decisions to screens — the first wireframes
+title: From decisions to screens → the first wireframes
 date: 2026-04-17
 author: [Taozhe Chen]
 summary: Walking through the first low-fidelity wireframes for
