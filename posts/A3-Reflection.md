@@ -19,7 +19,7 @@ built and how well it holds up once tested. The prototype we settled on was buil
 mainly around a groupmate's activity-first design, so part of this reflection also
 revisits how my own early requirements compare to the result.
 
-[Final demoWebsite Checklist](../assets/final_demo_checklist.md)
+[Final demoWebsite Checklist](assets/final_demo_checklist.md)
 
 ## Performance and technical behaviour
 
@@ -30,7 +30,7 @@ sits comfortably inside the brief target of under one second.
 
 **Evidence: Lighthouse audit .**
 
-[Lighthouse audit.pdf](../assets/lighthouse-test.pdf)
+[Lighthouse audit.pdf](assets/lighthouse-test.pdf)
 
 Diagnostics flagged without lowering the desktop score: unused JavaScript of about
 1,779 KiB (HTMX is loaded globally but used only in the Daily Question flow), weak
@@ -63,7 +63,7 @@ reading from closer to the target user, though the sample is still small and
 mostly younger.
 
 **Evidence: usability test (3 participants).**
-[usability test document](../assets/usability-test.md)
+[usability test document](assets/usability-test.md)
 
 Each participant was given the five core tasks one at a time on the
 activity-first build, and all three completed every task. The recurring observations
@@ -95,15 +95,15 @@ calculated by hand and every pair clears AA, the lowest being 5.26:1.
 
 **Evidence: accessibility review.**
 
-![AA review chart](../assets/AA-reviiew-chart.png)
-[AA checklist](../assets/aa-checklist-status.md)
-[AA detailed report](../assets/AA_accessibility_report.md)
+![AA review chart](assets/AA-reviiew-chart.png)
+[AA checklist](assets/aa-checklist-status.md)
+[AA detailed report](assets/AA_accessibility_report.md)
 
 Lighthouse returned an Accessibility score of 100. The full POUR checklist, with the
 keyboard, responsive and data-handling checks and their status, sits in the
 accessibility checklist table.
 
-![Lighthouse chart](../assets/Lighthouse-chart.png)
+![Lighthouse chart](assets/Lighthouse-chart.png)
 
 I would not overstate the accessibility result. Lighthouse checks only a portion
 of WCAG criteria, so the honest claim is "designed toward AA". On readability the evidence is a little stronger, since the oldest participant
